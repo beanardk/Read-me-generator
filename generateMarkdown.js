@@ -29,7 +29,7 @@ function generateMarkdown(data) {
   ## Contribution
   ${data.contribution}
   
-  ##Test Instructions
+  ## Test Instructions
   ${data.test}
   
   ## Questions
